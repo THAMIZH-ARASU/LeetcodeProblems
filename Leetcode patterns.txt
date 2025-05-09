@@ -1,0 +1,20 @@
+Leetcode patterns:
+
+- Prefix Sum
+- Two Pointers
+- Sliding Window
+- Fast and Slow Pointers
+- Linked List In Place Reversal
+- Monotonic Stack
+- Top K elements
+- Overlapping Intervals
+- Modified Binary Search
+- In order Binary Tree Traversal (To retrieve the values of the binary search tree in sorted order)
+- Pre order Binary Tree Traversal (To create a copy of a tree (Serialization))
+- Post order Binary Tree Traversal (When you want to process the child nodes before the parent node)
+- Level order Binary Tree Traversal (When you need to explore all the nodes at current level before next)
+
+
+
+Advanced:
+- Quick Select algorithm
